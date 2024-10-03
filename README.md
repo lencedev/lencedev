@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A passionate developer from France</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev&theme=onedark" alt="lencedev" /></a> </p>
 <div align="center">
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev&theme=matrix" alt="lencedev" /></a> </p>
 🔭 I’m currently working on **many dev web projects**
 
 🌱 I’m currently learning **Js, React, Angular, Java, Python**
@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lencedev&show_icons=true&locale=en&layout=compact" alt="lencedev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
