@@ -13,7 +13,6 @@
 
 📫 How to reach me **owenbolling2@gmail.com**
 
-📄 Know about my experiences [https://lencedev.com/](https://lencedev.com/)
 
 ---
 
@@ -35,14 +34,8 @@
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencedev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencedev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=300" alt="Top Languages" style="width: 45%; min-width: 300px; border: 2px solid #ffffff; border-radius: 8px;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=tokyonight&langs_count=8&hide_border=false" alt="Wakatime Stats" style="width: 45%; min-width: 300px; border: 2px solid #ffffff; border-radius: 8px;" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=tokyonight" alt="Wakatime Stats" />
-</p>
-
-</div>
