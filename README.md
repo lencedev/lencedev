@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A passionate developer from France</h3>
 <div align="center">
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,Followers" alt="GitHub Trophies" />
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev&theme=matrix" alt="lencedev" /></a> </p>
+
 🔭 I’m currently working on **many dev web projects**
 
 🌱 I’m currently learning **Js, React, Angular, Java, Python**
