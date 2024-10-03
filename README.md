@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A passionate developer from France</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev" alt="lencedev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev&theme=onedark" alt="lencedev" /></a> </p>
 <div align="center">
 
 🔭 I’m currently working on **many dev web projects**
