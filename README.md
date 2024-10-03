@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A passionate developer from France</h3>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lencedev" alt="lencedev" /></a> </p>
 <div align="center">
 
-- 🔭 I’m currently working on **many dev web projects**
+🔭 I’m currently working on **many dev web projects**
 
-- 🌱 I’m currently learning **Js, React, Angular, Java, Python**
+🌱 I’m currently learning **Js, React, Angular, Java, Python**
 
-- 👨‍💻 Some of my projects are available at [https://lencedev.com/](https://lencedev.com/)
+👨‍💻 Some of my projects are available at [https://lencedev.com/](https://lencedev.com/)
 
-- 📫 How to reach me **owenbolling2@gmail.com**
+📫 How to reach me **owenbolling2@gmail.com**
 
-- 📄 Know about my experiences [https://lencedev.com/](https://lencedev.com/)
+📄 Know about my experiences [https://lencedev.com/](https://lencedev.com/)
 
 ---
 
@@ -42,7 +42,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=radical" alt="Wakatime Stats" />
 </p>
-
-
 
 </div>
