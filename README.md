@@ -5,7 +5,6 @@
   <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,Followers" alt="GitHub Trophies" />
 </p>
 
-
 🔭 I’m currently working on **many dev web projects**
 
 🌱 I’m currently learning **Js, React, Angular, Java, Python**
@@ -37,13 +36,13 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencedev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=tokyonight" alt="Wakatime Stats" />
 </p>
 
 </div>
