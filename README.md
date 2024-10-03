@@ -35,11 +35,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lencedev&show_icons=true&locale=en&layout=compact" alt="lencedev" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=radical" alt="Wakatime Stats" />
-
-
-
-
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lence&theme=radical" alt="Wakatime Stats" />
+</p>
+
+
 
 </div>
