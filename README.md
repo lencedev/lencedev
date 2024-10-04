@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from France</h3>
 <div align="center">
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,Followers" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
 </p>
 
 🔭 I’m currently working on **many dev web projects**
