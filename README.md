@@ -5,13 +5,12 @@
   <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
 </p>
 
-🔭 I’m currently working on **many dev web projects**
+I’m currently working on many dev web projects
 
-🌱 I’m currently learning **Js, React, Angular, Java, Python**
+I’m currently learning Js, React, Angular, Java, Python
 
-👨‍💻 Some of my projects are available at [https://lencedev.com/](https://lencedev.com/)
+Doing cybersecurity / adminsys / network on free time
 
-📫 How to reach me **owenbolling2@gmail.com**
 
 
 ---
