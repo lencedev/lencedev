@@ -9,7 +9,7 @@ I’m currently working on many dev web projects
 
 I’m currently learning Js, React, Angular, Java, Python
 
-Doing cybersecurity / adminsys / network on free time
+Doing security / adminsys / network on free time
 
 
 
