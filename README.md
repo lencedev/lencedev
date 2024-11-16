@@ -7,7 +7,7 @@
 
 I’m currently working on many dev web projects
 
-I’m currently learning Js, React, Angular, Java, Python
+I’m currently learning Js, React, Angular, Java, Python 
 
 Doing security / adminsys / network on free time
 
