@@ -5,12 +5,9 @@
   <img src="https://github-trophies.vercel.app/?username=lencedev&theme=matrix&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,LongTimeUser,Commits,Repositories,Issues,Followers" alt="GitHub Trophies" />
 </p>
 
-I’m currently working on many dev web projects
-
-I’m currently learning Js, React, Angular, Java, Python 
-
-Doing security / adminsys / network on free time
-
+I’m currently working at a seismic interpretation software in full C++ / QT
+On my free time I work on personal projects
+I love low levels programming langages
 
 ---
 
